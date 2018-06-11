@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "webpack": "^4.12.0"
+  },
+  "scripts": {
+    "build": "webpack -p",
+    "watch": "webpack --watch"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.0.3"
+  }
+}
